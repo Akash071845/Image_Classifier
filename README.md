@@ -20,7 +20,3 @@ This project builds a Convolutional Neural Network (CNN) to classify images into
 - Achieved **92% accuracy** on test data.
 - Confusion Matrix and accuracy plot included in notebook.
 
-### 🚀 How to Run
-1. Clone the repo  
-   ```bash
-   git clone https://github.com/<your-username>/cnn-image-classifier.git
